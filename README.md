@@ -1,5 +1,5 @@
 ### Hi, I'm Riccardo!
-and if you are looking for good code:<br/>
+and if you are looking for good code...<br/>
 ![cf60874f49665bf1cd7af1d626e441f4](https://github.com/user-attachments/assets/472595d4-0c93-42b6-8da1-44142c527fe6)<br/>
 
 - 🔭 I’m a physics student at Università Milano Bicocca
