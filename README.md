@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi 👋, I'm Riccardo
+# Hi 👋, I'm Riccardo
 
 🔭 I’m a physics student at University of Milano-Bicocca<br/>
 📫 How to reach me: maregariccardo.rm0@gmail.com
