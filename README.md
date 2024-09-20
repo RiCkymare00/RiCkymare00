@@ -1,7 +1,8 @@
 <div align="center">
 
 ### Hi 👋, I'm Riccardo
-<img src="![octocat-1726843243771](https://github.com/user-attachments/assets/baca2ccd-0b08-4e79-b4ea-af0410be502a)" alt="Descrizione dell'immagine" width="200"/>
+<img src="![octocat-1726843243771](https://github.com/user-attachments/assets/1a9d3c45-28b5-4182-934d-acc5e922c292)
+" alt="Descrizione dell'immagine" width="200"/>
 
 
 🔭 I’m a physics student at University of Milano-Bicocca<br/>
