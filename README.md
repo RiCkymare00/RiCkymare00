@@ -2,9 +2,8 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align: center;">
-    <h1>Hi 👋, I'm Riccardo </h1> 
-    </h1><img src="https://github.com/RiCkymare00/RiCkymare00/blob/main/NUX_Octodex.gif" 
-           alt="Descrizione dell'immagine" width="500" style="margin-left: 20px; margin-top: 20px;"/> </h1>
+    <img src="https://github.com/RiCkymare00/RiCkymare00/blob/main/glitch.gif" 
+           alt="Descrizione dell'immagine" width="300" style="margin-left: 0px; margin-top: 0px;"/> 
     <p>🔭 I’m a physics student at University of Milano-Bicocca<br/>
     📫 How to reach me: maregariccardo.rm0@gmail.com</p>
   </div>
