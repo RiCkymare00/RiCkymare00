@@ -1,12 +1,16 @@
 <div align="center">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align: center;">
-    <h1>Hi 👋, I'm Riccardo <img src="https://github.com/RiCkymare00/RiCkymare00/blob/main/NUX_Octodex.gif" alt="Descrizione dell'immagine" width="150" style="margin-left: 20px;"/></h1>
+    <h1>Hi 👋, I'm Riccardo 
+      <img src="https://github.com/RiCkymare00/RiCkymare00/blob/main/NUX_Octodex.gif" 
+           alt="Descrizione dell'immagine" width="150" style="margin-left: 20px;"/>
+    </h1>
     <p>🔭 I’m a physics student at University of Milano-Bicocca<br/>
     📫 How to reach me: maregariccardo.rm0@gmail.com</p>
   </div>
 </div>
+
 
 # 💻 Tech Stack:
 <p align="center"> 
