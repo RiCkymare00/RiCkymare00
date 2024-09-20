@@ -1,6 +1,8 @@
 <div align="center">
 
 ### Hi 👋, I'm Riccardo
+![octocat-1726843243771](https://github.com/user-attachments/assets/baca2ccd-0b08-4e79-b4ea-af0410be502a)
+
 
 🔭 I’m a physics student at University of Milano-Bicocca<br/>
 📫 How to reach me: maregariccardo.rm0@gmail.com
