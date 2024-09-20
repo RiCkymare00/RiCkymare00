@@ -6,7 +6,7 @@
     <p>🔭 I’m a physics student at University of Milano-Bicocca<br/>
     📫 How to reach me: maregariccardo.rm0@gmail.com</p>
   </div>
-  <img src="https://github.com/RiCkymare00/RiCkymare00/blob/main/octocat-1726843243771.png" alt="Descrizione dell'immagine" width="150" style="margin-left: 20px;"/>
+  <img src="https://github.com/RiCkymare00/RiCkymare00/blob/main/NUX_Octodex.gif" alt="Descrizione dell'immagine" width="150" style="margin-left: 20px;"/>
 </div>
 
 # 💻 Tech Stack:
