@@ -5,7 +5,7 @@
     <img src="https://github.com/RiCkymare00/RiCkymare00/blob/main/glitch.gif" 
            alt="Descrizione dell'immagine" width="300" style="margin-left: 0px; margin-top: 0px;"/> 
     <p>🔭 I’m a physics student at University of Milano-Bicocca<br/>
-    📫 How to reach me: maregariccardo.rm0@gmail.com</p>
+    📫 How to reach me: maregariccardo.rm0@gmail.com (personal email) , r.marega@campus.unimib.it (institutional email)</p>
   </div>
 </div>
 
