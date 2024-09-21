@@ -10,16 +10,12 @@ on:
   # This command allows us to run the Action manually from the Actions tab.
   workflow_dispatch:
 
-# The sequence of jobs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Check out the repository under $GITHUB_WORKSPACE, so the job can access it
+      # Check out the repository under $GITHUB_WORKSPACE
       - uses: actions/checkout@v3
 
       # Generates the snake GIF and SVG
@@ -27,29 +23,26 @@ jobs:
         id: snake-gif
         with:
           github_user_name: RiCkymare00
-          # These next 2 lines generate the files on a branch called "output" to avoid cluttering the main branch.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Show the status of the repository. Makes it easier to debug if there are issues.
+      # Show the status of the repository for debugging
       - run: git status
 
-      # Push the generated GIF and SVG to the output branch using github-script
+      # Push the generated GIF and SVG to the output branch using Git commands
       - name: Push changes
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const exec = require('child_process').execSync;
-            exec('git config --global user.name "github-actions[bot]"');
-            exec('git config --global user.email "github-actions[bot]@users.noreply.github.com"');
-            exec('git add dist/*.gif dist/*.svg');
-            exec('git commit -m "Generate snake contribution graph" || echo "Nothing to commit"');
-            exec('git push origin output --force');
-      
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/*.gif dist/*.svg
+          git commit -m "Update snake contribution graph" || echo "Nothing to commit"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       # Publish the snake GIF and SVG to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          # The output branch where the files will be stored
           target_branch: output
           build_dir: dist
         env:
