@@ -50,6 +50,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RiCkymare00&theme=transparent&border=false&include_all_commits=false&count_private=false)<br/>
 
+![github contribution grid snake animation light mode](https://github.com/RiCkymare00/RiCkymare00/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 </div>
-![github contribution grid snake animation light mode](https://github.com/RiCkymare00/RiCkymare00/blob/output/github-contribution-grid-snake.svg)
 
